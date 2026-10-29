@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - PhysicsObject
+  - WreckingBall
+  - Invis1
+  - Anchor
+  - killerkenny
   layers:
   - Default
   - TransparentFX
@@ -16,8 +20,8 @@ TagManager:
   - PhysicsObject
   - PlayerPassthrough
   - PhyObjPassthrough
-  - 
-  - 
+  - Anchor
+  - Chain
   - 
   - 
   - 
