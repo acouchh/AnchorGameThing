@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: lava anim top3
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: -637893157, guid: b491dc24246d217408cc49fd943b7402, type: 3}
+  - {fileID: -686774114, guid: b491dc24246d217408cc49fd943b7402, type: 3}
+  - {fileID: 1334237095, guid: b491dc24246d217408cc49fd943b7402, type: 3}
+  - {fileID: -1332765140, guid: b491dc24246d217408cc49fd943b7402, type: 3}
+  - {fileID: -512044437, guid: b491dc24246d217408cc49fd943b7402, type: 3}
+  - {fileID: -171754787, guid: b491dc24246d217408cc49fd943b7402, type: 3}
+  - {fileID: -284601828, guid: b491dc24246d217408cc49fd943b7402, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

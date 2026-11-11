@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Rcoveyor
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: -2114072560538792347, guid: 86da524d66fe78a43a3fddf7c99fbc20, type: 3}
+  - {fileID: 466056959, guid: 86da524d66fe78a43a3fddf7c99fbc20, type: 3}
+  - {fileID: -1756389836, guid: 86da524d66fe78a43a3fddf7c99fbc20, type: 3}
+  - {fileID: -2084008706, guid: 86da524d66fe78a43a3fddf7c99fbc20, type: 3}
+  - {fileID: 1779516334, guid: 86da524d66fe78a43a3fddf7c99fbc20, type: 3}
+  - {fileID: 1155609488, guid: 86da524d66fe78a43a3fddf7c99fbc20, type: 3}
+  - {fileID: -1220703730, guid: 86da524d66fe78a43a3fddf7c99fbc20, type: 3}
+  - {fileID: -268579156, guid: 86da524d66fe78a43a3fddf7c99fbc20, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

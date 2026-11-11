@@ -1,0 +1,21 @@
+effect,kind,part,size,colour,file,frame_w,frame_h,frames,tags,loop_tags,ms_per_frame,pivot,tile_x
+laser,beam,start,small,blue,sprites/laser/laser_start_16x16_blue.png,16,16,21,charge:0-7 on:8-10 loop:11-16 off:17-20,loop,50/60/70,"6,7",
+laser,beam,body,small,blue,sprites/laser/laser_body_16x16_blue.png,16,16,13,on:0-2 loop:3-8 off:9-12,loop,50/60/70,"0,7",yes
+laser,beam,end,small,blue,sprites/laser/laser_end_16x16_blue.png,16,16,13,on:0-2 loop:3-8 off:9-12,loop,50/60/70,"8,7",
+laser,beam,start,small,red,sprites/laser/laser_start_16x16_red.png,16,16,21,charge:0-7 on:8-10 loop:11-16 off:17-20,loop,50/60/70,"6,7",
+laser,beam,body,small,red,sprites/laser/laser_body_16x16_red.png,16,16,13,on:0-2 loop:3-8 off:9-12,loop,50/60/70,"0,7",yes
+laser,beam,end,small,red,sprites/laser/laser_end_16x16_red.png,16,16,13,on:0-2 loop:3-8 off:9-12,loop,50/60/70,"8,7",
+laser,beam,start,large,blue,sprites/laser/laser_start_32x32_blue.png,32,32,21,charge:0-7 on:8-10 loop:11-16 off:17-20,loop,50/60/70,"12,15",
+laser,beam,body,large,blue,sprites/laser/laser_body_32x32_blue.png,32,32,13,on:0-2 loop:3-8 off:9-12,loop,50/60/70,"0,15",yes
+laser,beam,end,large,blue,sprites/laser/laser_end_32x32_blue.png,32,32,13,on:0-2 loop:3-8 off:9-12,loop,50/60/70,"17,15",
+laser,beam,start,large,red,sprites/laser/laser_start_32x32_red.png,32,32,21,charge:0-7 on:8-10 loop:11-16 off:17-20,loop,50/60/70,"12,15",
+laser,beam,body,large,red,sprites/laser/laser_body_32x32_red.png,32,32,13,on:0-2 loop:3-8 off:9-12,loop,50/60/70,"0,15",yes
+laser,beam,end,large,red,sprites/laser/laser_end_32x32_red.png,32,32,13,on:0-2 loop:3-8 off:9-12,loop,50/60/70,"17,15",
+zap,fx,,small,blue,sprites/zap/zap_32x32_blue.png,32,32,8,zap:0-7,,40/50/60/70/80,"16,16",
+zap,fx,,small,red,sprites/zap/zap_32x32_red.png,32,32,8,zap:0-7,,40/50/60/70/80,"16,16",
+zap,fx,,large,blue,sprites/zap/zap_64x64_blue.png,64,64,8,zap:0-7,,40/50/60/70/80,"32,32",
+zap,fx,,large,red,sprites/zap/zap_64x64_red.png,64,64,8,zap:0-7,,40/50/60/70/80,"32,32",
+orb_projectile,fx,,small,blue,sprites/orb_projectile/orb_projectile_16x16_blue.png,16,16,48,e:0-5 se:6-11 s:12-17 sw:18-23 w:24-29 nw:30-35 n:36-41 ne:42-47,e se s sw w nw n ne,70,"8,8",
+orb_projectile,fx,,small,red,sprites/orb_projectile/orb_projectile_16x16_red.png,16,16,48,e:0-5 se:6-11 s:12-17 sw:18-23 w:24-29 nw:30-35 n:36-41 ne:42-47,e se s sw w nw n ne,70,"8,8",
+orb_projectile,fx,,large,blue,sprites/orb_projectile/orb_projectile_32x32_blue.png,32,32,48,e:0-5 se:6-11 s:12-17 sw:18-23 w:24-29 nw:30-35 n:36-41 ne:42-47,e se s sw w nw n ne,70,"16,16",
+orb_projectile,fx,,large,red,sprites/orb_projectile/orb_projectile_32x32_red.png,32,32,48,e:0-5 se:6-11 s:12-17 sw:18-23 w:24-29 nw:30-35 n:36-41 ne:42-47,e se s sw w nw n ne,70,"16,16",
