@@ -71,7 +71,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 6854582628814803767}
   m_Enabled: 1
   serializedVersion: 3
-  m_Density: 1
+  m_Density: 30
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -157,8 +157,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: 48ad0c76394a14a028745e9d51b2f445, type: 3}
-  m_Color: {r: 1, g: 0, b: 0.042179585, a: 1}
+  m_Sprite: {fileID: -762014550, guid: 8727afd81955e7447b921373e05493e0, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
